@@ -8,7 +8,7 @@ Desktop Developer
 * ✉️  You can contact me at [edwincastillo20@hotmail.com](mailto:edwincastillo20@hotmail.com)
 * 🧠  I'm learning C# and .NET Web Api
 * 🤝  I'm open to collaborating on Developers focused on .Net technology
-* ⚡  I'm a developer at Delphi
+* ⚡  I'm a developer at Delphi.
 
 ### Skills
 
